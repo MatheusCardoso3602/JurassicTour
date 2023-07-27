@@ -1,6 +1,8 @@
-.container2{
-display: flex;
-overflow-y: hidden;
+/* desktop 1920px*/
+@media screen and (width: 1920px){
+	.container2{
+		display: flex;
+		overflow-y: hidden;
 	}
 
 /* Icons */
@@ -257,7 +259,7 @@ overflow-y: hidden;
 	background-color: #6ca5da;
 }
 
-
+}
 
 
 /* desktop 1360px 1366px*/
